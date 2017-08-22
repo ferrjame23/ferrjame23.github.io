@@ -1,11 +1,19 @@
+
+<<<<<<< HEAD
+body {
+    background-color:rgb(138,0,230);
+}
+h2 {
+    font-family: fantasy;
+    text-align: center;
+}
 h1 {
     font-family: fantasy;
     color: yellow;
     text-align: center;
 }
-<<<<<<< HEAD
-body {
-    background-color:rgb(138,0,230);
+img {
+    margin:auto;
 }
 =======
 >>>>>>> origin/master
