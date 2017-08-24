@@ -12,6 +12,6 @@ h1 {
     text-align: center;
 }
 div.image {
-    margin-left:auto;
+    margin: auto;
     width: "400px";
 }
