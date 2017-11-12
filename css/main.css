@@ -20,6 +20,7 @@ img {
     top: 730px;
     left: 337.969px;
 div {
+    display: block;
     overflow: scroll;
     height: 200px;
     border-color: yellow;
@@ -27,24 +28,26 @@ div {
 #Jump buttonflight {
     position: absolute;
     top: 100px;
-    left: 100px;
+    left: 240.3333333px;
 }
 #Potato button {
     position: absolute;
     top: 100px;
-    left: 500px;
+    left: 680.6666666px;
 }
 #Jump instructions flight {
     position: absolute;
     top: 400px;
-    left: 100px;
+    left: 240.3333333px;
 }
 #Potato instructions {
     position: absolute;
     top: 400px;
-    left: 500px;
+    left: 680.6666666px;
 }
    #comic {
        position: absolute;
        left:36.375px;
     }
+ p {
+     color: yellow;
