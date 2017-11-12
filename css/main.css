@@ -16,9 +16,8 @@ img {
     margin: 0 auto;
 }
 .nextbuttons {
-    position:absolute;
-    top: 730px;
-    left: 337.969px;
+    display: block; margin-left: auto;
+    
 div {
     display: block;
     overflow: scroll;
@@ -45,9 +44,5 @@ div {
     top: 400px;
     left: 680.6666666px;
 }
-   #comic {
-       position: absolute;
-       left:36.375px;
-    }
  p {
      color: yellow;
