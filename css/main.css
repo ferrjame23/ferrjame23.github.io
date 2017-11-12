@@ -18,6 +18,7 @@ img {
 .nextbuttons {
     position:absolute;
     top: 730px;
+    left: 337.969px;
 div {
     overflow: scroll;
     height: 200px;
@@ -43,3 +44,7 @@ div {
     top: 400px;
     left: 500px;
 }
+   #comic {
+       position: absolute;
+       left:36.375px;
+    }
