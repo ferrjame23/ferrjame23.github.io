@@ -74,8 +74,10 @@ p {
 
 #background {
     height:100%;
+    z-index: 0;
 }
 
 #flyinghamster {
     height: 20%;
+    z-index: 1;
 }
