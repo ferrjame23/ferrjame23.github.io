@@ -21,12 +21,14 @@ img {
 
 .nextbuttons {
     display: block; margin-left: auto;
+    top: 500px;
 }
     
 div {
     display: block;
     overflow: scroll;
     height: 200px;
+    width: 200px;
     border-color: yellow;
 }
 
