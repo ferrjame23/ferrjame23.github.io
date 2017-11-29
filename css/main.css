@@ -71,3 +71,11 @@ p {
     position: absolute;
     left: 440.3333333px;
 }
+
+#background {
+    height:100%;
+}
+
+#flyinghamster {
+    height: 20%;
+}
