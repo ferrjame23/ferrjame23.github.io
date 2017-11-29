@@ -1,22 +1,27 @@
 body {
     background: rgb(138,0,230);
 }
+
 h2 {
     font-family: fantasy;
     text-align: center;
     color: yellow;
 }
+
 h1 {
     font-family: fantasy;
     color: yellow;
     text-align: center;
 }
+
 img {
     display: block;
     margin: 0 auto;
 }
+
 .nextbuttons {
     display: block; margin-left: auto;
+}
     
 div {
     display: block;
@@ -24,25 +29,31 @@ div {
     height: 200px;
     border-color: yellow;
 }
-#Jump buttonflight {
+
+#Jumpbuttonflight {
     position: absolute;
     top: 100px;
     left: 240.3333333px;
 }
-#Potato button {
+
+#Potatobutton {
     position: absolute;
     top: 100px;
     left: 680.6666666px;
 }
-#Jump instructions flight {
+
+#Jumpinstructionsflight {
     position: absolute;
     top: 400px;
     left: 240.3333333px;
 }
-#Potato instructions {
+
+#Potatoinstructions {
     position: absolute;
     top: 400px;
     left: 680.6666666px;
 }
- p {
+ 
+p {
      color: yellow;
+}
