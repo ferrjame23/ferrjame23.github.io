@@ -58,3 +58,16 @@ div {
 p {
      color: yellow;
 }
+
+#nextbuttons {
+    position:absolute;
+    top: 700px;
+    left:680.6666666px;
+    
+}
+
+#Instructions {
+    display: block;
+    position: absolute;
+    left: 440.3333333px;
+}
