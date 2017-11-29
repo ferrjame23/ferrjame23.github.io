@@ -26,7 +26,6 @@ img {
     
 div {
     display: block;
-    overflow: scroll;
     height: 200px;
     width: 200px;
     border-color: yellow;
