@@ -34,26 +34,26 @@ div {
 
 #Jumpbuttonflight {
     position: fixed;
+    width: 20%;
     top: 100px;
     left: 20%;
 }
 
 #Potatobutton {
     position: fixed;
+    width: 20%;
     top: 100px;
     left: 60%;
 }
 
 #Jumpinstructionsflight {
-    position: fixed;
-    top: 400px;
-    left: 20%;
+    position: absolute;
+    top: 20px;
 }
 
 #Potatoinstructions {
-    position: fixed;
-    top: 400px;
-    left: 60%;
+    position: absolute;
+    top: 20px;
 }
  
 p {
