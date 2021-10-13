@@ -20,7 +20,8 @@ img {
 }
 
 .nextbuttons {
-    display: block; margin-left: auto;
+    display: block; 
+    margin-left: auto;
     top: 500px;
 }
     
@@ -34,25 +35,25 @@ div {
 #Jumpbuttonflight {
     position: fixed;
     top: 100px;
-    left: 20%px;
+    left: 20%;
 }
 
 #Potatobutton {
     position: fixed;
     top: 100px;
-    left: 60%px;
+    left: 60%;
 }
 
 #Jumpinstructionsflight {
     position: fixed;
     top: 400px;
-    left: 20%px;
+    left: 20%;
 }
 
 #Potatoinstructions {
     position: fixed;
     top: 400px;
-    left: 60%px;
+    left: 60%;
 }
  
 p {
@@ -68,9 +69,8 @@ p {
 
 #Instructions {
     display: block;
-    position: fixed;
-    width: 20%px;
-    left: 40%px;
+    width: 20%;
+    margin-left: auto;
 }
 
 #background {
