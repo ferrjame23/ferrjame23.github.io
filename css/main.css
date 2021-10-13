@@ -32,27 +32,27 @@ div {
 }
 
 #Jumpbuttonflight {
-    position: absolute;
+    position: fixed;
     top: 100px;
-    left: 240.3333333px;
+    left: 20%px;
 }
 
 #Potatobutton {
-    position: absolute;
+    position: fixed;
     top: 100px;
-    left: 680.6666666px;
+    left: 60%px;
 }
 
 #Jumpinstructionsflight {
-    position: absolute;
+    position: fixed;
     top: 400px;
-    left: 240.3333333px;
+    left: 20%px;
 }
 
 #Potatoinstructions {
-    position: absolute;
+    position: fixed;
     top: 400px;
-    left: 680.6666666px;
+    left: 60%px;
 }
  
 p {
@@ -68,8 +68,9 @@ p {
 
 #Instructions {
     display: block;
-    position: absolute;
-    left: 440.3333333px;
+    position: fixed;
+    width: 20%;
+    left: 20%px;
 }
 
 #background {
