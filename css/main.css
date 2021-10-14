@@ -67,11 +67,6 @@ p {
     
 }
 
-#Instructions {
-    display: block;
-    width: 20%;
-}
-
 #background {
     height:100%;
     z-index: 0;
