@@ -22,9 +22,8 @@ img {
 .nextbuttons {
     display: block; 
     position: absolute;
-    right: 20px;
-    bottom: 20px;
-    width: 20%
+    top: 500px;
+	left: auto;	
 }
     
 div {
@@ -33,7 +32,9 @@ div {
     width: 200px;
     border-color: yellow;
 }
-
+#Instructions {
+	font-size: 5vw;
+}	
 #Jumpbuttonflight {
     position: absolute;
     width: 20%;
@@ -54,6 +55,7 @@ div {
     top: width+20px;
     display: inline-block;
 	max-width: 100%;
+	text-align: center;
 }
 
 #Potatoinstructions {
@@ -62,6 +64,7 @@ div {
     top: width+20px;
     display: inline-block;
 	max-width: 100%;
+	text-align: center;
 }
  
 p {
