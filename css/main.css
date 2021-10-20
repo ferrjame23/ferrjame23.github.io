@@ -21,9 +21,8 @@ img {
 
 .nextbuttons {
     display: block; 
-    position: absolute;
-    top: 500px;
-	left: auto;	
+    margin-left: auto;
+    top: 500px;	
 }
     
 div {
