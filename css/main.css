@@ -31,9 +31,7 @@ div {
     width: 200px;
     border-color: yellow;
 }
-#Instructions {
-	font-size: 5vw;
-}	
+
 #Jumpbuttonflight {
     position: absolute;
     width: 20%;
@@ -65,10 +63,6 @@ div {
 	max-width: 100%;
 	text-align: center;
 }
-#nextbutton {
-	position: absolute;
-	top: 95%;
-	left: 87%;
 p {
      color: yellow;
 }
